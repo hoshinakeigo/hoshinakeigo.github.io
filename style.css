@@ -926,7 +926,7 @@ HTMLの要素単体であったり、よく使い回すレイアウトを簡単�
 主にどのようなサイトなのか？を視覚的に伝えます。
 *****/
   #main-visual{
-    background-image:url(sp/mv.png);
+    background-image:url(mv.png);
     height: 500px;
     max-height: inherit;
     padding-top: 60px;
