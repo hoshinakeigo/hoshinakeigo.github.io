@@ -160,7 +160,7 @@ select::-ms-expand {
 主にどのようなサイトなのか？を視覚的に伝えます。
 *****/
 #main-visual{
-  background-image:url(../image/mv.png);  /* background-image:背景画像 */
+  background-image:url(mv.png);  /* background-image:背景画像 */
   background-repeat:no-repeat;  /* background-repeat:背景の繰り返し */
   background-size: cover;  /* background-size:背景のサイズ */
   height: 100vh;
@@ -215,7 +215,7 @@ select::-ms-expand {
 *****/
 #concept{
   background-color: #f7e8e8;
-  background-image: url(../image/back1.png),url(../image/back2.png);
+  background-image: url(back1.png),url(back2.png);
   background-size: 22%,22%;
   background-repeat: no-repeat;
   background-position: 0 0,100% 100%;  /* background-position:背景の位置設定 */
@@ -926,7 +926,7 @@ HTMLの要素単体であったり、よく使い回すレイアウトを簡単�
 主にどのようなサイトなのか？を視覚的に伝えます。
 *****/
   #main-visual{
-    background-image:url(../image/sp/mv.png);
+    background-image:url(mv.png);
     height: 500px;
     max-height: inherit;
     padding-top: 60px;
